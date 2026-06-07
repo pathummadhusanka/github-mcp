@@ -13,3 +13,8 @@ Run tests with:
 ```
 pytest -q
 ```
+
+**About this repository**
+
+Repository created; issue and PR were opened using GitHub MCP and Copilot.
+
