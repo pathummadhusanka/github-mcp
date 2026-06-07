@@ -1,0 +1,13 @@
+Adds a minimal Python Hello World app and test.
+
+Files added:
+- `hello.py` — prints "Hello, world!"
+- `tests/test_hello.py` — simple pytest for the app
+- Updated `README.md` with run and test instructions
+
+Run locally:
+
+```
+python hello.py
+pytest -q
+```
